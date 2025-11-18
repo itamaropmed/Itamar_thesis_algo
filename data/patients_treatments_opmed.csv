@@ -1,0 +1,401 @@
+patient,treatments
+patient 1,treatment 1; treatment 2; treatment 2; treatment 2; treatment 3; treatment 4; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 8
+patient 2,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 8; treatment 1
+patient 3,treatment 3; treatment 1; treatment 8; treatment 7; treatment 9; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6
+patient 4,treatment 3; treatment 1; treatment 10; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 11; treatment 7
+patient 5,treatment 7; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3
+patient 6,treatment 3; treatment 7; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 12; treatment 12; treatment 12; treatment 12; treatment 1
+patient 7,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 5; treatment 11; treatment 13; treatment 14; treatment 9
+patient 8,treatment 11; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 15; treatment 3; treatment 1
+patient 9,treatment 7; treatment 1; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 16; treatment 5; treatment 11; treatment 8
+patient 10,treatment 8; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 12; treatment 12; treatment 7; treatment 1
+patient 11,treatment 8; treatment 1; treatment 9; treatment 2; treatment 2; treatment 2; treatment 3; treatment 4; treatment 6; treatment 6; treatment 6; treatment 5; treatment 7
+patient 12,treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 7; treatment 8; treatment 14; treatment 9; treatment 11; treatment 14; treatment 17
+patient 13,treatment 7
+patient 14,treatment 3; treatment 1; treatment 2; treatment 11; treatment 6; treatment 5; treatment 7
+patient 15,treatment 3; treatment 8; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 1
+patient 16,treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 7; treatment 8
+patient 17,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 5
+patient 18,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 4; treatment 6; treatment 6; treatment 6
+patient 19,treatment 8; treatment 2; treatment 2; treatment 2; treatment 3; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 1
+patient 20,treatment 3; treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 14; treatment 5; treatment 12; treatment 12
+patient 21,treatment 1; treatment 9; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 5; treatment 6; treatment 6; treatment 6; treatment 19; treatment 14; treatment 13
+patient 22,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1; treatment 8
+patient 23,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 11; treatment 18; treatment 6; treatment 6; treatment 6; treatment 20; treatment 14; treatment 5
+patient 24,treatment 11; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 7; treatment 1
+patient 25,treatment 21; treatment 2; treatment 2; treatment 2; treatment 11; treatment 11; treatment 22; treatment 5; treatment 6; treatment 6; treatment 6; treatment 19; treatment 16; treatment 13; treatment 3; treatment 7; treatment 8; treatment 1
+patient 26,treatment 7; treatment 1; treatment 8; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3
+patient 27,treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 1
+patient 28,treatment 3; treatment 8; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 20; treatment 12; treatment 6; treatment 6; treatment 6; treatment 12; treatment 1; treatment 4
+patient 29,treatment 1; treatment 8; treatment 7; treatment 2; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6
+patient 30,treatment 3; treatment 1; treatment 2; treatment 2; treatment 2; treatment 11; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 13; treatment 9; treatment 7
+patient 31,treatment 3; treatment 7; treatment 2; treatment 2; treatment 2; treatment 11; treatment 6; treatment 6; treatment 6; treatment 13; treatment 5; treatment 1
+patient 32,treatment 7; treatment 8; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1
+patient 33,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 13; treatment 22; treatment 3; treatment 1
+patient 34,treatment 3
+patient 35,treatment 7; treatment 2; treatment 5; treatment 6; treatment 1
+patient 36,treatment 10; treatment 7; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 17; treatment 3; treatment 21; treatment 1
+patient 37,treatment 3; treatment 1; treatment 7; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6
+patient 38,treatment 21; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 22; treatment 4; treatment 6; treatment 6; treatment 6; treatment 19; treatment 5; treatment 3
+patient 39,treatment 7; treatment 2; treatment 2; treatment 5; treatment 3; treatment 1
+patient 40,treatment 8; treatment 1; treatment 2; treatment 2; treatment 6; treatment 3; treatment 7
+patient 41,treatment 3; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 19; treatment 14; treatment 10; treatment 9; treatment 7; treatment 23; treatment 8; treatment 1
+patient 42,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 9; treatment 8; treatment 1
+patient 43,treatment 3; treatment 1; treatment 8; treatment 2; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 24; treatment 19; treatment 14; treatment 7
+patient 44,treatment 3; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 13; treatment 1; treatment 8
+patient 45,treatment 1; treatment 10; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 7; treatment 8
+patient 46,treatment 8; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 7; treatment 9
+patient 47,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 5
+patient 48,treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 25; treatment 20; treatment 8; treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 49,treatment 1
+patient 50,treatment 7; treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 8; treatment 3; treatment 4
+patient 51,treatment 11; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 7; treatment 1
+patient 52,treatment 8; treatment 1; treatment 9; treatment 2; treatment 2; treatment 2; treatment 3; treatment 11; treatment 4; treatment 4; treatment 6; treatment 6; treatment 6; treatment 25; treatment 14; treatment 13; treatment 5; treatment 7
+patient 53,treatment 8; treatment 7; treatment 9; treatment 2; treatment 2; treatment 2; treatment 11; treatment 11; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 24; treatment 13; treatment 3; treatment 1
+patient 54,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 8; treatment 1
+patient 55,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1
+patient 56,treatment 7; treatment 2; treatment 2; treatment 2; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 24; treatment 3; treatment 1
+patient 57,treatment 3; treatment 7; treatment 10; treatment 2; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 15; treatment 9; treatment 8; treatment 1
+patient 58,treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 12; treatment 12; treatment 12; treatment 8; treatment 1; treatment 4
+patient 59,treatment 8; treatment 2; treatment 2; treatment 4; treatment 6; treatment 6; treatment 25; treatment 13; treatment 3; treatment 9; treatment 7; treatment 1
+patient 60,treatment 3; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 13
+patient 61,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3
+patient 62,treatment 3; treatment 10; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 8; treatment 1
+patient 63,treatment 2; treatment 7; treatment 3; treatment 17; treatment 6; treatment 11; treatment 5; treatment 12; treatment 1
+patient 64,treatment 3; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 11; treatment 26; treatment 6; treatment 6; treatment 6; treatment 20; treatment 5; treatment 12; treatment 12; treatment 12
+patient 65,treatment 3; treatment 1; treatment 8; treatment 9; treatment 2; treatment 2; treatment 2; treatment 11; treatment 6; treatment 6; treatment 6; treatment 24; treatment 19; treatment 14; treatment 13; treatment 5; treatment 7
+patient 66,treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 67,treatment 7; treatment 2; treatment 5; treatment 6; treatment 3; treatment 1
+patient 68,treatment 3; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 23
+patient 69,treatment 8; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 25; treatment 13; treatment 3
+patient 70,treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 7; treatment 8
+patient 71,treatment 3; treatment 1; treatment 7; treatment 21; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 12; treatment 12; treatment 12
+patient 72,treatment 7; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 8; treatment 1
+patient 73,treatment 3; treatment 1; treatment 8; treatment 9; treatment 2; treatment 2; treatment 2; treatment 2; treatment 22; treatment 4; treatment 5; treatment 6; treatment 6; treatment 6; treatment 6; treatment 7
+patient 74,treatment 3; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 21
+patient 75,treatment 3; treatment 7; treatment 21; treatment 2; treatment 2; treatment 2; treatment 6; treatment 5; treatment 21; treatment 23; treatment 23; treatment 1
+patient 76,treatment 1; treatment 2; treatment 2; treatment 2; treatment 3; treatment 11; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 13; treatment 7; treatment 8
+patient 77,treatment 3; treatment 7; treatment 21; treatment 2; treatment 2; treatment 2; treatment 11; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 12; treatment 12; treatment 1
+patient 78,treatment 8; treatment 10; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 15; treatment 3; treatment 9; treatment 7; treatment 1
+patient 79,treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 80,treatment 3; treatment 1; treatment 2; treatment 2; treatment 2; treatment 18; treatment 5; treatment 6; treatment 6; treatment 6; treatment 11; treatment 25; treatment 7
+patient 81,treatment 10; treatment 5; treatment 6; treatment 6; treatment 6; treatment 6; treatment 2; treatment 2; treatment 2; treatment 2; treatment 3; treatment 7; treatment 8; treatment 1
+patient 82,treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 7; treatment 8
+patient 83,treatment 7; treatment 10; treatment 5; treatment 6; treatment 6; treatment 6; treatment 2; treatment 2; treatment 2; treatment 3; treatment 12; treatment 12; treatment 12; treatment 1; treatment 8
+patient 84,treatment 8; treatment 1; treatment 9; treatment 7; treatment 2; treatment 2; treatment 2; treatment 4; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3
+patient 85,treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 86,treatment 3; treatment 1; treatment 8; treatment 9; treatment 2; treatment 2; treatment 2; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 13; treatment 11; treatment 15; treatment 7
+patient 87,treatment 8; treatment 9; treatment 7; treatment 10; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1
+patient 88,treatment 3; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 4; treatment 5; treatment 6; treatment 6; treatment 6; treatment 12; treatment 12; treatment 12; treatment 8
+patient 89,treatment 8; treatment 9; treatment 2; treatment 2; treatment 2; treatment 10; treatment 11; treatment 5; treatment 26; treatment 6; treatment 6; treatment 6; treatment 15; treatment 13; treatment 3; treatment 7; treatment 1
+patient 90,treatment 15; treatment 8; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 5; treatment 7; treatment 1
+patient 91,treatment 8; treatment 2; treatment 2; treatment 2; treatment 3; treatment 11; treatment 5; treatment 6; treatment 6; treatment 6; treatment 25; treatment 13; treatment 9; treatment 7; treatment 1
+patient 92,treatment 8; treatment 9; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 7; treatment 1
+patient 93,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1; treatment 8
+patient 94,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 12; treatment 12; treatment 1; treatment 8
+patient 95,treatment 7; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 16
+patient 96,treatment 5; treatment 6; treatment 6; treatment 6; treatment 2; treatment 2; treatment 2; treatment 3; treatment 7; treatment 9; treatment 8; treatment 1
+patient 97,treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 98,treatment 3; treatment 8; treatment 1; treatment 9; treatment 10; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 13; treatment 7
+patient 99,treatment 6; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 7; treatment 1
+patient 100,treatment 7; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 8; treatment 1
+patient 101,treatment 2; treatment 7; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 12; treatment 8; treatment 1
+patient 102,treatment 3; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 7; treatment 16
+patient 103,treatment 7; treatment 1; treatment 8; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 5
+patient 104,treatment 3; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 14; treatment 13; treatment 7; treatment 1; treatment 8
+patient 105,treatment 8; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 9; treatment 7
+patient 106,treatment 6; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 3; treatment 12; treatment 12; treatment 12; treatment 7; treatment 8; treatment 1
+patient 107,treatment 3; treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 12; treatment 12; treatment 12; treatment 13; treatment 14; treatment 25; treatment 20
+patient 108,treatment 7; treatment 8; treatment 1; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3
+patient 109,treatment 7; treatment 8; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 18; treatment 9; treatment 1
+patient 110,treatment 7; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 8
+patient 111,treatment 7; treatment 8; treatment 1; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 9
+patient 112,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1; treatment 8
+patient 113,treatment 7; treatment 2; treatment 2; treatment 2; treatment 5; treatment 6; treatment 6; treatment 6; treatment 3; treatment 1; treatment 8
+patient 114,treatment 7; treatment 2; treatment 2; treatment 2; treatment 3; treatment 6; treatment 6; treatment 6; treatment 5; treatment 12; treatment 12; treatment 12; treatment 8; treatment 1
+patient 115,treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 7; treatment 8
+patient 116,treatment 1; treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8
+patient 117,treatment 1; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 7
+patient 118,treatment 7; treatment 2; treatment 2; treatment 2; treatment 6; treatment 6; treatment 6; treatment 5; treatment 3; treatment 8; treatment 12; treatment 12
+patient 119,treatment 22; treatment 22; treatment 26; treatment 16; treatment 16; treatment 18
+patient 120,treatment 6; treatment 10; treatment 12; treatment 1; treatment 1; treatment 27; treatment 17; treatment 11; treatment 24
+patient 121,treatment 25; treatment 25; treatment 7; treatment 26; treatment 4; treatment 4; treatment 14; treatment 14; treatment 11; treatment 11; treatment 24; treatment 15; treatment 20
+patient 122,treatment 22; treatment 22; treatment 2; treatment 2; treatment 6; treatment 18
+patient 123,treatment 1; treatment 1; treatment 25
+patient 124,treatment 11; treatment 7; treatment 7; treatment 7; treatment 3; treatment 19
+patient 125,treatment 22; treatment 22; treatment 6; treatment 9; treatment 5; treatment 5
+patient 126,treatment 26; treatment 4; treatment 6; treatment 8; treatment 18; treatment 14; treatment 11; treatment 13; treatment 19
+patient 127,treatment 22; treatment 16; treatment 16
+patient 128,treatment 11; treatment 1; treatment 1
+patient 129,treatment 9; treatment 12; treatment 12
+patient 130,treatment 13; treatment 7; treatment 22; treatment 8; treatment 1; treatment 17
+patient 131,treatment 21; treatment 22; treatment 6; treatment 9; treatment 9; treatment 9; treatment 17; treatment 11; treatment 25
+patient 132,treatment 20; treatment 2; treatment 2; treatment 9; treatment 9; treatment 9; treatment 10; treatment 1; treatment 23; treatment 27; treatment 18; treatment 17; treatment 24; treatment 15; treatment 15
+patient 133,treatment 22; treatment 26; treatment 3; treatment 3; treatment 5; treatment 8; treatment 23; treatment 23; treatment 24
+patient 134,treatment 24; treatment 24; treatment 7; treatment 10; treatment 12; treatment 1; treatment 23; treatment 23; treatment 18; treatment 13; treatment 13; treatment 20
+patient 135,treatment 9; treatment 9; treatment 9
+patient 136,treatment 25; treatment 7; treatment 4; treatment 8; treatment 1; treatment 1
+patient 137,treatment 7; treatment 1; treatment 23; treatment 17; treatment 24; treatment 15
+patient 138,treatment 19; treatment 16; treatment 10
+patient 139,treatment 21; treatment 6; treatment 23; treatment 23; treatment 23; treatment 11; treatment 24; treatment 15
+patient 140,treatment 21; treatment 21; treatment 21
+patient 141,treatment 26; treatment 26; treatment 6; treatment 6; treatment 1; treatment 20
+patient 142,treatment 9; treatment 10; treatment 8; treatment 23; treatment 23; treatment 23; treatment 27; treatment 25; treatment 19
+patient 143,treatment 17; treatment 22; treatment 16; treatment 16; treatment 16; treatment 4; treatment 10; treatment 12; treatment 1; treatment 27; treatment 18; treatment 18; treatment 11; treatment 19; treatment 20
+patient 144,treatment 21; treatment 9; treatment 10; treatment 10; treatment 27; treatment 19; treatment 15
+patient 145,treatment 15; treatment 15; treatment 16; treatment 3; treatment 5; treatment 1; treatment 23; treatment 23; treatment 18; treatment 18; treatment 24
+patient 146,treatment 4; treatment 6; treatment 3; treatment 1; treatment 14; treatment 25
+patient 147,treatment 7; treatment 7; treatment 4; treatment 4; treatment 23; treatment 13
+patient 148,treatment 3; treatment 3; treatment 5; treatment 5; treatment 12; treatment 12; treatment 12; treatment 1; treatment 1
+patient 149,treatment 13; treatment 21; treatment 26; treatment 26; treatment 16; treatment 16; treatment 16; treatment 3; treatment 1; treatment 1; treatment 27; treatment 27; treatment 14; treatment 19
+patient 150,treatment 7; treatment 7; treatment 16; treatment 16; treatment 10; treatment 10
+patient 151,treatment 22; treatment 9; treatment 3; treatment 3; treatment 12; treatment 17; treatment 24; treatment 13; treatment 19
+patient 152,treatment 25; treatment 25; treatment 7; treatment 22; treatment 6; treatment 3; treatment 23; treatment 18; treatment 17; treatment 11; treatment 11; treatment 15
+patient 153,treatment 22; treatment 26; treatment 6; treatment 6; treatment 12; treatment 12; treatment 8; treatment 11; treatment 19
+patient 154,treatment 21; treatment 7; treatment 26; treatment 2; treatment 10; treatment 3; treatment 1; treatment 25; treatment 20
+patient 155,treatment 5; treatment 5; treatment 8
+patient 156,treatment 2; treatment 2; treatment 2
+patient 157,treatment 6; treatment 6; treatment 23
+patient 158,treatment 14; treatment 21; treatment 6; treatment 6; treatment 6; treatment 10; treatment 10; treatment 10; treatment 27; treatment 27; treatment 25; treatment 25; treatment 15
+patient 159,treatment 13; treatment 22; treatment 22; treatment 10; treatment 10; treatment 10; treatment 3; treatment 12; treatment 1; treatment 23; treatment 17; treatment 24
+patient 160,treatment 13; treatment 26; treatment 4; treatment 4; treatment 6; treatment 6; treatment 6; treatment 8; treatment 23
+patient 161,treatment 16; treatment 16; treatment 10; treatment 10; treatment 12; treatment 12
+patient 162,treatment 21; treatment 21; treatment 9; treatment 9
+patient 163,treatment 20; treatment 7; treatment 7; treatment 7; treatment 1; treatment 1
+patient 164,treatment 11; treatment 11; treatment 4; treatment 6; treatment 6; treatment 9; treatment 5; treatment 17; treatment 17; treatment 13; treatment 19; treatment 15; treatment 15
+patient 165,treatment 7; treatment 7; treatment 7; treatment 16; treatment 16; treatment 5; treatment 5; treatment 11; treatment 24
+patient 166,treatment 13; treatment 7; treatment 16; treatment 5; treatment 14; treatment 15
+patient 167,treatment 2; treatment 10; treatment 3; treatment 8; treatment 13
+patient 168,treatment 19; treatment 5; treatment 27
+patient 169,treatment 2; treatment 9; treatment 9; treatment 23; treatment 15; treatment 20
+patient 170,treatment 22; treatment 16; treatment 3; treatment 3; treatment 3; treatment 23
+patient 171,treatment 21; treatment 22; treatment 9; treatment 5; treatment 12; treatment 12; treatment 12; treatment 18; treatment 15
+patient 172,treatment 13; treatment 9; treatment 9; treatment 3; treatment 3; treatment 12
+patient 173,treatment 24; treatment 21; treatment 26; treatment 6; treatment 3; treatment 23; treatment 18; treatment 17; treatment 25
+patient 174,treatment 17; treatment 22; treatment 22; treatment 26; treatment 16; treatment 10; treatment 8; treatment 23; treatment 23; treatment 11; treatment 25; treatment 25; treatment 13
+patient 175,treatment 10; treatment 10; treatment 23
+patient 176,treatment 16; treatment 16; treatment 12
+patient 177,treatment 10; treatment 10; treatment 12; treatment 12; treatment 8; treatment 8
+patient 178,treatment 25; treatment 7; treatment 26; treatment 26; treatment 9; treatment 8; treatment 27; treatment 27; treatment 24; treatment 24
+patient 179,treatment 17; treatment 26; treatment 26; treatment 26; treatment 5; treatment 12; treatment 1; treatment 1; treatment 13
+patient 180,treatment 21; treatment 21; treatment 6; treatment 6; treatment 5; treatment 5
+patient 181,treatment 18; treatment 22; treatment 22; treatment 4; treatment 5; treatment 5
+patient 182,treatment 21; treatment 21; treatment 7; treatment 7; treatment 16; treatment 6; treatment 3; treatment 1; treatment 1
+patient 183,treatment 17; treatment 16; treatment 4; treatment 4; treatment 6; treatment 3; treatment 18; treatment 14; treatment 19; treatment 15; treatment 15
+patient 184,treatment 21; treatment 21; treatment 21; treatment 26; treatment 26; treatment 2; treatment 1; treatment 1; treatment 14
+patient 185,treatment 21; treatment 21; treatment 26; treatment 26; treatment 16; treatment 24
+patient 186,treatment 21; treatment 2; treatment 6; treatment 3; treatment 14; treatment 15
+patient 187,treatment 26; treatment 16; treatment 8; treatment 27; treatment 13; treatment 15
+patient 188,treatment 1; treatment 1; treatment 1
+patient 189,treatment 19; treatment 7; treatment 26; treatment 6; treatment 1; treatment 27; treatment 14; treatment 24; treatment 15
+patient 190,treatment 21; treatment 21; treatment 7; treatment 7; treatment 12; treatment 8; treatment 23; treatment 24
+patient 191,treatment 22; treatment 22; treatment 3; treatment 1; treatment 25
+patient 192,treatment 22; treatment 22; treatment 22; treatment 2; treatment 2; treatment 14; treatment 17; treatment 11; treatment 25
+patient 193,treatment 25; treatment 26; treatment 10; treatment 8; treatment 1; treatment 27; treatment 27; treatment 17; treatment 11; treatment 20
+patient 194,treatment 20; treatment 4; treatment 8; treatment 1; treatment 18; treatment 18; treatment 19; treatment 19; treatment 15; treatment 15
+patient 195,treatment 25; treatment 26; treatment 26; treatment 3; treatment 3; treatment 3; treatment 5; treatment 8; treatment 8; treatment 1; treatment 23; treatment 23
+patient 196,treatment 22; treatment 22; treatment 5; treatment 5; treatment 23; treatment 24
+patient 197,treatment 22; treatment 22; treatment 8; treatment 20
+patient 198,treatment 24; treatment 16; treatment 20
+patient 199,treatment 26; treatment 3; treatment 18; treatment 14; treatment 17; treatment 19
+patient 200,treatment 20; treatment 7; treatment 7; treatment 2; treatment 2; treatment 17
+patient 201,treatment 26; treatment 16; treatment 4; treatment 27; treatment 14; treatment 13
+patient 202,treatment 26; treatment 9; treatment 5; treatment 5; treatment 5; treatment 18; treatment 11; treatment 20
+patient 203,treatment 8; treatment 8; treatment 8
+patient 204,treatment 15; treatment 21; treatment 21; treatment 9; treatment 3; treatment 3; treatment 12; treatment 12; treatment 25
+patient 205,treatment 11; treatment 13; treatment 20
+patient 206,treatment 21; treatment 21; treatment 16; treatment 2; treatment 5; treatment 5
+patient 207,treatment 25; treatment 22; treatment 22; treatment 22; treatment 24; treatment 15
+patient 208,treatment 18; treatment 2; treatment 4; treatment 4; treatment 4; treatment 3; treatment 5; treatment 5; treatment 12; treatment 1; treatment 1; treatment 27; treatment 27; treatment 15
+patient 209,treatment 21; treatment 21; treatment 22; treatment 22; treatment 23; treatment 23
+patient 210,treatment 7; treatment 7; treatment 7; treatment 10; treatment 23
+patient 211,treatment 26; treatment 4; treatment 9; treatment 8; treatment 1; treatment 23; treatment 27; treatment 17; treatment 15
+patient 212,treatment 26; treatment 10; treatment 23; treatment 14; treatment 24; treatment 25
+patient 213,treatment 7; treatment 7; treatment 6; treatment 10; treatment 12; treatment 17
+patient 214,treatment 11; treatment 16; treatment 16
+patient 215,treatment 11; treatment 21; treatment 21; treatment 26; treatment 26; treatment 2; treatment 8; treatment 23; treatment 19
+patient 216,treatment 6; treatment 18; treatment 13
+patient 217,treatment 7; treatment 5; treatment 5; treatment 5; treatment 8; treatment 19
+patient 218,treatment 22; treatment 3; treatment 8; treatment 1; treatment 14; treatment 17
+patient 219,treatment 20; treatment 21; treatment 26; treatment 10; treatment 12; treatment 8
+patient 220,treatment 14; treatment 14; treatment 22; treatment 26; treatment 6; treatment 5; treatment 5; treatment 12; treatment 8; treatment 8; treatment 1; treatment 1; treatment 27; treatment 19; treatment 19
+patient 221,treatment 6; treatment 3; treatment 3
+patient 222,treatment 22; treatment 26; treatment 2; treatment 27; treatment 18; treatment 24
+patient 223,treatment 5; treatment 5; treatment 12; treatment 12; treatment 11; treatment 20
+patient 224,treatment 26; treatment 26; treatment 16; treatment 16; treatment 2; treatment 4; treatment 9; treatment 17; treatment 15
+patient 225,treatment 22; treatment 22; treatment 22; treatment 8; treatment 8; treatment 23; treatment 27; treatment 11; treatment 24
+patient 226,treatment 3; treatment 3; treatment 1; treatment 14; treatment 11; treatment 24; treatment 25; treatment 13; treatment 15
+patient 227,treatment 22; treatment 1; treatment 23
+patient 228,treatment 22; treatment 9; treatment 9; treatment 9; treatment 3; treatment 12; treatment 23; treatment 23; treatment 18
+patient 229,treatment 10; treatment 5; treatment 20
+patient 230,treatment 12; treatment 12; treatment 1
+patient 231,treatment 7; treatment 7; treatment 7; treatment 23; treatment 23; treatment 17; treatment 25; treatment 20
+patient 232,treatment 23; treatment 23; treatment 23
+patient 233,treatment 7; treatment 22; treatment 26; treatment 3; treatment 1; treatment 27; treatment 25; treatment 15
+patient 234,treatment 27; treatment 2; treatment 6; treatment 1; treatment 1; treatment 18; treatment 14; treatment 25; treatment 13
+patient 235,treatment 10; treatment 3; treatment 12; treatment 8; treatment 17; treatment 24; treatment 19
+patient 236,treatment 3; treatment 3; treatment 3
+patient 237,treatment 18; treatment 14; treatment 13
+patient 238,treatment 9; treatment 9; treatment 9; treatment 5; treatment 5; treatment 1; treatment 1
+patient 239,treatment 15; treatment 22; treatment 16; treatment 16; treatment 16; treatment 10; treatment 3; treatment 5; treatment 12; treatment 14; treatment 11; treatment 11; treatment 24; treatment 24; treatment 25
+patient 240,treatment 18; treatment 16; treatment 3; treatment 3; treatment 3; treatment 12; treatment 12; treatment 13; treatment 20
+patient 241,treatment 22; treatment 5; treatment 8; treatment 27; treatment 18; treatment 24; treatment 25; treatment 13; treatment 15
+patient 242,treatment 10; treatment 10; treatment 10
+patient 243,treatment 4; treatment 4; treatment 3; treatment 23; treatment 19
+patient 244,treatment 16; treatment 16; treatment 16
+patient 245,treatment 26; treatment 26; treatment 27
+patient 246,treatment 7; treatment 7; treatment 7; treatment 2; treatment 8; treatment 8; treatment 23; treatment 23; treatment 11
+patient 247,treatment 2; treatment 2; treatment 2; treatment 11; treatment 13; treatment 20
+patient 248,treatment 7; treatment 6; treatment 5; treatment 8; treatment 1; treatment 1; treatment 1; treatment 24; treatment 19
+patient 249,treatment 26; treatment 26; treatment 6; treatment 10; treatment 10; treatment 10; treatment 1; treatment 1; treatment 20
+patient 250,treatment 4; treatment 4; treatment 4; treatment 3; treatment 3; treatment 5; treatment 5; treatment 23; treatment 23
+patient 251,treatment 25; treatment 16; treatment 2; treatment 2; treatment 4; treatment 8; treatment 8; treatment 27; treatment 27; treatment 11; treatment 20
+patient 252,treatment 27; treatment 27; treatment 26; treatment 26; treatment 10; treatment 5; treatment 5; treatment 23; treatment 23; treatment 11; treatment 11; treatment 13
+patient 253,treatment 2; treatment 9; treatment 1
+patient 254,treatment 14; treatment 21; treatment 7; treatment 6; treatment 5; treatment 12; treatment 8; treatment 8; treatment 8; treatment 1; treatment 23; treatment 18
+patient 255,treatment 21; treatment 6; treatment 5; treatment 12; treatment 12; treatment 12
+patient 256,treatment 7; treatment 16; treatment 16; treatment 3; treatment 3; treatment 15
+patient 257,treatment 23; treatment 23; treatment 23; treatment 27; treatment 13; treatment 15
+patient 258,treatment 27; treatment 21; treatment 21; treatment 16; treatment 4; treatment 9
+patient 259,treatment 26; treatment 10; treatment 8; treatment 27; treatment 17; treatment 13
+patient 260,treatment 18; treatment 7; treatment 7; treatment 7; treatment 1; treatment 24; treatment 25
+patient 261,treatment 21; treatment 26; treatment 23; treatment 18; treatment 17; treatment 20
+patient 262,treatment 21; treatment 22; treatment 22; treatment 6; treatment 6; treatment 10; treatment 12; treatment 12; treatment 8
+patient 263,treatment 17; treatment 22; treatment 2; treatment 5; treatment 8; treatment 27; treatment 14; treatment 13; treatment 19
+patient 264,treatment 27; treatment 18; treatment 14
+patient 265,treatment 19; treatment 21; treatment 7; treatment 5; treatment 12; treatment 12; treatment 23; treatment 18; treatment 24
+patient 266,treatment 27; treatment 6; treatment 5; treatment 5; treatment 5; treatment 12
+patient 267,treatment 20; treatment 7; treatment 26; treatment 16; treatment 3; treatment 5; treatment 14; treatment 19; treatment 15
+patient 268,treatment 2; treatment 1; treatment 23; treatment 11; treatment 25; treatment 19; treatment 15; treatment 20
+patient 269,treatment 14; treatment 7; treatment 7; treatment 22; treatment 4; treatment 10; treatment 1; treatment 25; treatment 19; treatment 15
+patient 270,treatment 10; treatment 3; treatment 3
+patient 271,treatment 7; treatment 9; treatment 23; treatment 18; treatment 15; treatment 20
+patient 272,treatment 7; treatment 9; treatment 3; treatment 5; treatment 5; treatment 1; treatment 1; treatment 11; treatment 19
+patient 273,treatment 24; treatment 12; treatment 12
+patient 274,treatment 22; treatment 22; treatment 3; treatment 3; treatment 5; treatment 23; treatment 23; treatment 25; treatment 20
+patient 275,treatment 22; treatment 2; treatment 8; treatment 8; treatment 8; treatment 11
+patient 276,treatment 7; treatment 7; treatment 26; treatment 26; treatment 3; treatment 24
+patient 277,treatment 13; treatment 2; treatment 2; treatment 12; treatment 12; treatment 1
+patient 278,treatment 27; treatment 9; treatment 5; treatment 8; treatment 11; treatment 19
+patient 279,treatment 22; treatment 22; treatment 5; treatment 12; treatment 27; treatment 11; treatment 24; treatment 19; treatment 20
+patient 280,treatment 21; treatment 21; treatment 21
+patient 281,treatment 15; treatment 7; treatment 7
+patient 282,treatment 17; treatment 5; treatment 5
+patient 283,treatment 15; treatment 16; treatment 16; treatment 5; treatment 1; treatment 24
+patient 284,treatment 16; treatment 16; treatment 3; treatment 5; treatment 12; treatment 27; treatment 24
+patient 285,treatment 26; treatment 26; treatment 26; treatment 4; treatment 27; treatment 19
+patient 286,treatment 26; treatment 9; treatment 9; treatment 18; treatment 13; treatment 15
+patient 287,treatment 26; treatment 4; treatment 10; treatment 23; treatment 17; treatment 13
+patient 288,treatment 22; treatment 2; treatment 1; treatment 1; treatment 25
+patient 289,treatment 20; treatment 22; treatment 2; treatment 10; treatment 10; treatment 5; treatment 5; treatment 18; treatment 18; treatment 24; treatment 24; treatment 13; treatment 19; treatment 19; treatment 15
+patient 290,treatment 24; treatment 21; treatment 16; treatment 4; treatment 6; treatment 6; treatment 6; treatment 9; treatment 27
+patient 291,treatment 6; treatment 6; treatment 5; treatment 5; treatment 1; treatment 1
+patient 292,treatment 14; treatment 22; treatment 22; treatment 22; treatment 26; treatment 3; treatment 8; treatment 1; treatment 1; treatment 27; treatment 18; treatment 17; treatment 13; treatment 19; treatment 15
+patient 293,treatment 24; treatment 22; treatment 11
+patient 294,treatment 20; treatment 16; treatment 5; treatment 27; treatment 14; treatment 15
+patient 295,treatment 14; treatment 7; treatment 26; treatment 16; treatment 10; treatment 8; treatment 8; treatment 27; treatment 27; treatment 20
+patient 296,treatment 24; treatment 6; treatment 13
+patient 297,treatment 7; treatment 7; treatment 10; treatment 10; treatment 1; treatment 1
+patient 298,treatment 22; treatment 22; treatment 9; treatment 9; treatment 12; treatment 12
+patient 299,treatment 19; treatment 22; treatment 22; treatment 22; treatment 17; treatment 11
+patient 300,treatment 20; treatment 7; treatment 7
+patient 301,treatment 7; treatment 22; treatment 22; treatment 4; treatment 9; treatment 14; treatment 11; treatment 25; treatment 15
+patient 302,treatment 21; treatment 21; treatment 9; treatment 9; treatment 10; treatment 10; treatment 18; treatment 11; treatment 25
+patient 303,treatment 22; treatment 6; treatment 6; treatment 12; treatment 12; treatment 12
+patient 304,treatment 16; treatment 2; treatment 4; treatment 3; treatment 8; treatment 1; treatment 1; treatment 23; treatment 17
+patient 305,treatment 2; treatment 2; treatment 3; treatment 3; treatment 3; treatment 1; treatment 1
+patient 306,treatment 14; treatment 7; treatment 26; treatment 26; treatment 16; treatment 6; treatment 6; treatment 9; treatment 10; treatment 3; treatment 5; treatment 5; treatment 5; treatment 23; treatment 23
+patient 307,treatment 15; treatment 15; treatment 2; treatment 2; treatment 4; treatment 3; treatment 3; treatment 8; treatment 8; treatment 8; treatment 17; treatment 19
+patient 308,treatment 1; treatment 23; treatment 27
+patient 309,treatment 13; treatment 7; treatment 7; treatment 22; treatment 22; treatment 4; treatment 6; treatment 5; treatment 12; treatment 1; treatment 27; treatment 14
+patient 310,treatment 10; treatment 23; treatment 18; treatment 17; treatment 24; treatment 13
+patient 311,treatment 26; treatment 26; treatment 26
+patient 312,treatment 5; treatment 5; treatment 5; treatment 12; treatment 8; treatment 8
+patient 313,treatment 27; treatment 5; treatment 5
+patient 314,treatment 12; treatment 12; treatment 1; treatment 27; treatment 14; treatment 15
+patient 315,treatment 26; treatment 26; treatment 16; treatment 17; treatment 11; treatment 25
+patient 316,treatment 24; treatment 4; treatment 5; treatment 5; treatment 5; treatment 11
+patient 317,treatment 7; treatment 7; treatment 7; treatment 22; treatment 2; treatment 13
+patient 318,treatment 22; treatment 22; treatment 1; treatment 1; treatment 27; treatment 17
+patient 319,treatment 3; treatment 3; treatment 3
+patient 320,treatment 9; treatment 9; treatment 3; treatment 3; treatment 20
+patient 321,treatment 21; treatment 6; treatment 6; treatment 23; treatment 23; treatment 23
+patient 322,treatment 20; treatment 26; treatment 26; treatment 26; treatment 3; treatment 3
+patient 323,treatment 21; treatment 21; treatment 21; treatment 2; treatment 2; treatment 24
+patient 324,treatment 2; treatment 6; treatment 6; treatment 6; treatment 27; treatment 14; treatment 17; treatment 13; treatment 19
+patient 325,treatment 7; treatment 26; treatment 16; treatment 6; treatment 12; treatment 14; treatment 24; treatment 19; treatment 20
+patient 326,treatment 3; treatment 3; treatment 8
+patient 327,treatment 4; treatment 4; treatment 4
+patient 328,treatment 16; treatment 23; treatment 23; treatment 23; treatment 18; treatment 13
+patient 329,treatment 24; treatment 12; treatment 12
+patient 330,treatment 14; treatment 9; treatment 9; treatment 1; treatment 1; treatment 1
+patient 331,treatment 4; treatment 6; treatment 6; treatment 9; treatment 9; treatment 3; treatment 3
+patient 332,treatment 11; treatment 4; treatment 6; treatment 10; treatment 10; treatment 10; treatment 5; treatment 27; treatment 27; treatment 18; treatment 13; treatment 13; treatment 19; treatment 19
+patient 333,treatment 26; treatment 9; treatment 10; treatment 14; treatment 13; treatment 15
+patient 334,treatment 2; treatment 2; treatment 12; treatment 12; treatment 12; treatment 1; treatment 1; treatment 23; treatment 23
+patient 335,treatment 7; treatment 7; treatment 22; treatment 2; treatment 2; treatment 5; treatment 1; treatment 11; treatment 25
+patient 336,treatment 4; treatment 4; treatment 9; treatment 23; treatment 18; treatment 20
+patient 337,treatment 11; treatment 7; treatment 26; treatment 26; treatment 6; treatment 6; treatment 6; treatment 27; treatment 14; treatment 17; treatment 24; treatment 13
+patient 338,treatment 7; treatment 26; treatment 26; treatment 3; treatment 8; treatment 23; treatment 24; treatment 25; treatment 20
+patient 339,treatment 19; treatment 2; treatment 8
+patient 340,treatment 13; treatment 4; treatment 4; treatment 10; treatment 10; treatment 3; treatment 11; treatment 11; treatment 24; treatment 15
+patient 341,treatment 22; treatment 22; treatment 22
+patient 342,treatment 7; treatment 7; treatment 2; treatment 2; treatment 6; treatment 8; treatment 18; treatment 19; treatment 15
+patient 343,treatment 25; treatment 21; treatment 7; treatment 26; treatment 2; treatment 2; treatment 10; treatment 10; treatment 10; treatment 3; treatment 23; treatment 14; treatment 17; treatment 15; treatment 15
+patient 344,treatment 19; treatment 19; treatment 26; treatment 16; treatment 2; treatment 4; treatment 9; treatment 3; treatment 1; treatment 1; treatment 23; treatment 27; treatment 27; treatment 24; treatment 20
+patient 345,treatment 14; treatment 21; treatment 21; treatment 21; treatment 8; treatment 8
+patient 346,treatment 2; treatment 4; treatment 17; treatment 24; treatment 25; treatment 15
+patient 347,treatment 25; treatment 22; treatment 22; treatment 26; treatment 16; treatment 2; treatment 3; treatment 3; treatment 1; treatment 1; treatment 23; treatment 24
+patient 348,treatment 21; treatment 6; treatment 6; treatment 9; treatment 12; treatment 1
+patient 349,treatment 21; treatment 9; treatment 10; treatment 3; treatment 5; treatment 14; treatment 17; treatment 25; treatment 19
+patient 350,treatment 7; treatment 7; treatment 7; treatment 4; treatment 3; treatment 8; treatment 23; treatment 18; treatment 25
+patient 351,treatment 11; treatment 11; treatment 26; treatment 16; treatment 16; treatment 6; treatment 6; treatment 10; treatment 5; treatment 23; treatment 17; treatment 25
+patient 352,treatment 5; treatment 5; treatment 5; treatment 12; treatment 12; treatment 14
+patient 353,treatment 19; treatment 19; treatment 22; treatment 4; treatment 4; treatment 9; treatment 9; treatment 27; treatment 17; treatment 24; treatment 20; treatment 20
+patient 354,treatment 24; treatment 7; treatment 22; treatment 26; treatment 18; treatment 14
+patient 355,treatment 17; treatment 26; treatment 16; treatment 2; treatment 4; treatment 3; treatment 1; treatment 27; treatment 18; treatment 14; treatment 24; treatment 25
+patient 356,treatment 7; treatment 16; treatment 1; treatment 1; treatment 1; treatment 15
+patient 357,treatment 13; treatment 7; treatment 7; treatment 7; treatment 5; treatment 5
+patient 358,treatment 21; treatment 21; treatment 22; treatment 4; treatment 9; treatment 12; treatment 14; treatment 13; treatment 19
+patient 359,treatment 22; treatment 5; treatment 25
+patient 360,treatment 7; treatment 7; treatment 22; treatment 10; treatment 8; treatment 23
+patient 361,treatment 5; treatment 8; treatment 8
+patient 362,treatment 25; treatment 22; treatment 26; treatment 16; treatment 2; treatment 5; treatment 12; treatment 12; treatment 8; treatment 8; treatment 18; treatment 18; treatment 11; treatment 24; treatment 24
+patient 363,treatment 21; treatment 21; treatment 16; treatment 6; treatment 13; treatment 15
+patient 364,treatment 13; treatment 13; treatment 16; treatment 4; treatment 6; treatment 6; treatment 9; treatment 5; treatment 12; treatment 8; treatment 1; treatment 18; treatment 18; treatment 24
+patient 365,treatment 18; treatment 21; treatment 7; treatment 22; treatment 26; treatment 4; treatment 6; treatment 8; treatment 17; treatment 24; treatment 19; treatment 15
+patient 366,treatment 7; treatment 6; treatment 1; treatment 1; treatment 1; treatment 19
+patient 367,treatment 17; treatment 16; treatment 4; treatment 4; treatment 4; treatment 18
+patient 368,treatment 17; treatment 16; treatment 6; treatment 6; treatment 6; treatment 10; treatment 3; treatment 3; treatment 3; treatment 5; treatment 5; treatment 5; treatment 23; treatment 18; treatment 25
+patient 369,treatment 8; treatment 8; treatment 18
+patient 370,treatment 24; treatment 5; treatment 5; treatment 12; treatment 12; treatment 12
+patient 371,treatment 16; treatment 16; treatment 16; treatment 4; treatment 6; treatment 6
+patient 372,treatment 13; treatment 7; treatment 16; treatment 6; treatment 6; treatment 10; treatment 8; treatment 1; treatment 18; treatment 25; treatment 15
+patient 373,treatment 19; treatment 22; treatment 16; treatment 16; treatment 16; treatment 6; treatment 6; treatment 9; treatment 9; treatment 3; treatment 3; treatment 5; treatment 12; treatment 23; treatment 24
+patient 374,treatment 7; treatment 4; treatment 13
+patient 375,treatment 7; treatment 7; treatment 22; treatment 22; treatment 4; treatment 1; treatment 1
+patient 376,treatment 15; treatment 26; treatment 26; treatment 4; treatment 4; treatment 9; treatment 9; treatment 10; treatment 3
+patient 377,treatment 27; treatment 26; treatment 4; treatment 4; treatment 4; treatment 6; treatment 8; treatment 23; treatment 17; treatment 25; treatment 25; treatment 13; treatment 13; treatment 15
+patient 378,treatment 19; treatment 19; treatment 9; treatment 10; treatment 10; treatment 3; treatment 5; treatment 5; treatment 12; treatment 1; treatment 18; treatment 11
+patient 379,treatment 13; treatment 1; treatment 1; treatment 1; treatment 27; treatment 15
+patient 380,treatment 24; treatment 7; treatment 6; treatment 3; treatment 5; treatment 5; treatment 8; treatment 14; treatment 15
+patient 381,treatment 9; treatment 18; treatment 17
+patient 382,treatment 22; treatment 22; treatment 4; treatment 10; treatment 10; treatment 3
+patient 383,treatment 23; treatment 23; treatment 18
+patient 384,treatment 9; treatment 3; treatment 1; treatment 23; treatment 23; treatment 11; treatment 24; treatment 19; treatment 15
+patient 385,treatment 16; treatment 2; treatment 2
+patient 386,treatment 13; treatment 7; treatment 7; treatment 22; treatment 2; treatment 27; treatment 18; treatment 11; treatment 20; treatment 20
+patient 387,treatment 21; treatment 22; treatment 16; treatment 16; treatment 6; treatment 8; treatment 11; treatment 13; treatment 19
+patient 388,treatment 5; treatment 1; treatment 27
+patient 389,treatment 21; treatment 23; treatment 23
+patient 390,treatment 21; treatment 8; treatment 18
+patient 391,treatment 11; treatment 10; treatment 18
+patient 392,treatment 26; treatment 2; treatment 2
+patient 393,treatment 19; treatment 16; treatment 4; treatment 6; treatment 9; treatment 9; treatment 5; treatment 12; treatment 27; treatment 17; treatment 15; treatment 20
+patient 394,treatment 25; treatment 6; treatment 6
+patient 395,treatment 17; treatment 17; treatment 7; treatment 22; treatment 22; treatment 22; treatment 8; treatment 8; treatment 8; treatment 18; treatment 11; treatment 11; treatment 25; treatment 25; treatment 20
+patient 396,treatment 22; treatment 2; treatment 2
+patient 397,treatment 26; treatment 10; treatment 10; treatment 3; treatment 3; treatment 27
+patient 398,treatment 17; treatment 7; treatment 22; treatment 9; treatment 9; treatment 23; treatment 18; treatment 14; treatment 14; treatment 24; treatment 13; treatment 13
+patient 399,treatment 21; treatment 16; treatment 4; treatment 3; treatment 3; treatment 12; treatment 14; treatment 13; treatment 15
+patient 400,treatment 11; treatment 2; treatment 2; treatment 2; treatment 5; treatment 8; treatment 8; treatment 14; treatment 17; treatment 17; treatment 13; treatment 20
