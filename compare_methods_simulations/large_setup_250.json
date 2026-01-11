@@ -1,0 +1,6125 @@
+{
+    "meta": {
+        "num_patients": 250,
+        "num_rooms": 6,
+        "num_doctors": 15,
+        "day_limit": 600,
+        "difficulty": "Hard - Overloaded (250 Patients)"
+    },
+    "patients": [
+        {
+            "id": 0,
+            "type": "Extended",
+            "duration": 70,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 1,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 2,
+            "type": "Extended",
+            "duration": 85,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 3,
+            "type": "Major",
+            "duration": 100,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 4,
+            "type": "Major",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Complex",
+            "duration": 175,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 6,
+            "type": "Standard",
+            "duration": 50,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 7,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 8,
+            "type": "Major",
+            "duration": 130,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 9,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 10,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 11,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 12,
+            "type": "Major",
+            "duration": 100,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 13,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 14,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 15,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 16,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 17,
+            "type": "Complex",
+            "duration": 150,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 18,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 19,
+            "type": "Major",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 20,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 21,
+            "type": "Extended",
+            "duration": 85,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 22,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 23,
+            "type": "Major",
+            "duration": 115,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 24,
+            "type": "Extended",
+            "duration": 75,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 25,
+            "type": "Standard",
+            "duration": 50,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 26,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 27,
+            "type": "Standard",
+            "duration": 70,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 28,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 29,
+            "type": "Minor_Proc",
+            "duration": 35,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 30,
+            "type": "Complex",
+            "duration": 175,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 31,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 32,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 33,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 34,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 35,
+            "type": "Minor_Proc",
+            "duration": 35,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 36,
+            "type": "Extended",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 37,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 38,
+            "type": "Complex",
+            "duration": 170,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 39,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 40,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 41,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 42,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 43,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 44,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 45,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 46,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 47,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 48,
+            "type": "Extended",
+            "duration": 100,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 49,
+            "type": "Standard",
+            "duration": 70,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 50,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 51,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 52,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 53,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 54,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 55,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 56,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 57,
+            "type": "Major",
+            "duration": 125,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 58,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 59,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 60,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 61,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 62,
+            "type": "Major",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 63,
+            "type": "Complex",
+            "duration": 170,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 64,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 65,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 66,
+            "type": "Major",
+            "duration": 100,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 67,
+            "type": "Standard",
+            "duration": 70,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 68,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 69,
+            "type": "Standard",
+            "duration": 50,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 70,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 71,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 72,
+            "type": "Standard",
+            "duration": 50,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 73,
+            "type": "Complex",
+            "duration": 170,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 74,
+            "type": "Extended",
+            "duration": 75,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 75,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 76,
+            "type": "Complex",
+            "duration": 160,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 77,
+            "type": "Extended",
+            "duration": 105,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 78,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 79,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 80,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 81,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 82,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 83,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 84,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 85,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 86,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 87,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 88,
+            "type": "Extended",
+            "duration": 80,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 89,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 90,
+            "type": "Major",
+            "duration": 100,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 91,
+            "type": "Extended",
+            "duration": 90,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 92,
+            "type": "Complex",
+            "duration": 210,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 93,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 94,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 95,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 96,
+            "type": "Extended",
+            "duration": 80,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 97,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 98,
+            "type": "Major",
+            "duration": 125,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 99,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 100,
+            "type": "Extended",
+            "duration": 85,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 101,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 102,
+            "type": "Standard",
+            "duration": 50,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 103,
+            "type": "Complex",
+            "duration": 235,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 104,
+            "type": "Major",
+            "duration": 125,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 105,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 106,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 107,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 108,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 109,
+            "type": "Extended",
+            "duration": 70,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 110,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 111,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 112,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 113,
+            "type": "Major",
+            "duration": 115,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 114,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 115,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 116,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 117,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 118,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 119,
+            "type": "Extended",
+            "duration": 105,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 120,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 121,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 122,
+            "type": "Complex",
+            "duration": 165,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 123,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 124,
+            "type": "Complex",
+            "duration": 170,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 125,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 126,
+            "type": "Extended",
+            "duration": 75,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 127,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 128,
+            "type": "Major",
+            "duration": 115,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 129,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 130,
+            "type": "Major",
+            "duration": 125,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 131,
+            "type": "Complex",
+            "duration": 210,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 132,
+            "type": "Extended",
+            "duration": 75,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 133,
+            "type": "Quick_Check",
+            "duration": 10,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 134,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 135,
+            "type": "Minor_Proc",
+            "duration": 35,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 136,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 137,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 138,
+            "type": "Minor_Proc",
+            "duration": 20,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 139,
+            "type": "Extended",
+            "duration": 85,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 140,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 141,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 142,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 143,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 144,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 145,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 146,
+            "type": "Extended",
+            "duration": 95,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 147,
+            "type": "Major",
+            "duration": 120,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 148,
+            "type": "Extended",
+            "duration": 80,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 149,
+            "type": "Complex",
+            "duration": 205,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 150,
+            "type": "Standard",
+            "duration": 51,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 151,
+            "type": "Major",
+            "duration": 126,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 152,
+            "type": "Complex",
+            "duration": 191,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 153,
+            "type": "Minor_Proc",
+            "duration": 34,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 154,
+            "type": "Minor_Proc",
+            "duration": 28,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 155,
+            "type": "Minor_Proc",
+            "duration": 29,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 156,
+            "type": "Minor_Proc",
+            "duration": 30,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 157,
+            "type": "Standard",
+            "duration": 78,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 158,
+            "type": "Quick_Check",
+            "duration": 13,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 159,
+            "type": "Complex",
+            "duration": 195,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 160,
+            "type": "Extended",
+            "duration": 91,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 161,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 162,
+            "type": "Standard",
+            "duration": 61,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 163,
+            "type": "Standard",
+            "duration": 49,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 164,
+            "type": "Extended",
+            "duration": 69,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 165,
+            "type": "Major",
+            "duration": 124,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 166,
+            "type": "Standard",
+            "duration": 54,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 167,
+            "type": "Minor_Proc",
+            "duration": 24,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 168,
+            "type": "Complex",
+            "duration": 196,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 169,
+            "type": "Standard",
+            "duration": 47,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 170,
+            "type": "Standard",
+            "duration": 56,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 171,
+            "type": "Minor_Proc",
+            "duration": 32,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 172,
+            "type": "Standard",
+            "duration": 59,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 173,
+            "type": "Standard",
+            "duration": 71,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 174,
+            "type": "Major",
+            "duration": 104,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 175,
+            "type": "Minor_Proc",
+            "duration": 27,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 176,
+            "type": "Extended",
+            "duration": 109,
+            "compatible_rooms": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 177,
+            "type": "Extended",
+            "duration": 76,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 178,
+            "type": "Complex",
+            "duration": 154,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 179,
+            "type": "Standard",
+            "duration": 61,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 180,
+            "type": "Standard",
+            "duration": 67,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 181,
+            "type": "Standard",
+            "duration": 60,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 182,
+            "type": "Standard",
+            "duration": 76,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 183,
+            "type": "Standard",
+            "duration": 58,
+            "compatible_rooms": [
+                1,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 184,
+            "type": "Standard",
+            "duration": 57,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 185,
+            "type": "Extended",
+            "duration": 98,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 186,
+            "type": "Minor_Proc",
+            "duration": 27,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 187,
+            "type": "Complex",
+            "duration": 179,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 188,
+            "type": "Complex",
+            "duration": 159,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 189,
+            "type": "Major",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 190,
+            "type": "Standard",
+            "duration": 56,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 191,
+            "type": "Extended",
+            "duration": 110,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 192,
+            "type": "Extended",
+            "duration": 86,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 193,
+            "type": "Extended",
+            "duration": 72,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 194,
+            "type": "Standard",
+            "duration": 68,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 195,
+            "type": "Extended",
+            "duration": 69,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 196,
+            "type": "Minor_Proc",
+            "duration": 26,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 197,
+            "type": "Complex",
+            "duration": 236,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 198,
+            "type": "Minor_Proc",
+            "duration": 27,
+            "compatible_rooms": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 199,
+            "type": "Extended",
+            "duration": 105,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 200,
+            "type": "Extended",
+            "duration": 115,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 201,
+            "type": "Standard",
+            "duration": 47,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 202,
+            "type": "Standard",
+            "duration": 59,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 203,
+            "type": "Major",
+            "duration": 122,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 204,
+            "type": "Major",
+            "duration": 109,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 205,
+            "type": "Standard",
+            "duration": 73,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 206,
+            "type": "Major",
+            "duration": 117,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 207,
+            "type": "Major",
+            "duration": 111,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 208,
+            "type": "Standard",
+            "duration": 77,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 209,
+            "type": "Standard",
+            "duration": 62,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 210,
+            "type": "Minor_Proc",
+            "duration": 33,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 211,
+            "type": "Extended",
+            "duration": 69,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 212,
+            "type": "Major",
+            "duration": 134,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 213,
+            "type": "Extended",
+            "duration": 108,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 214,
+            "type": "Extended",
+            "duration": 101,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 215,
+            "type": "Standard",
+            "duration": 55,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 216,
+            "type": "Minor_Proc",
+            "duration": 27,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 217,
+            "type": "Minor_Proc",
+            "duration": 26,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 218,
+            "type": "Extended",
+            "duration": 84,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 219,
+            "type": "Major",
+            "duration": 114,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 220,
+            "type": "Complex",
+            "duration": 177,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 221,
+            "type": "Complex",
+            "duration": 184,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 222,
+            "type": "Extended",
+            "duration": 94,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 223,
+            "type": "Standard",
+            "duration": 52,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 224,
+            "type": "Major",
+            "duration": 85,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 225,
+            "type": "Standard",
+            "duration": 63,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 226,
+            "type": "Standard",
+            "duration": 47,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 227,
+            "type": "Major",
+            "duration": 104,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 228,
+            "type": "Complex",
+            "duration": 224,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 229,
+            "type": "Standard",
+            "duration": 56,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 230,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 231,
+            "type": "Standard",
+            "duration": 58,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 232,
+            "type": "Quick_Check",
+            "duration": 16,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 233,
+            "type": "Complex",
+            "duration": 166,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 234,
+            "type": "Standard",
+            "duration": 70,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 235,
+            "type": "Major",
+            "duration": 122,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 236,
+            "type": "Quick_Check",
+            "duration": 15,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 237,
+            "type": "Extended",
+            "duration": 83,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 238,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 239,
+            "type": "Major",
+            "duration": 121,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 240,
+            "type": "Extended",
+            "duration": 74,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 241,
+            "type": "Major",
+            "duration": 86,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 242,
+            "type": "Minor_Proc",
+            "duration": 25,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 243,
+            "type": "Minor_Proc",
+            "duration": 23,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 244,
+            "type": "Extended",
+            "duration": 101,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 245,
+            "type": "Minor_Proc",
+            "duration": 27,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 246,
+            "type": "Complex",
+            "duration": 180,
+            "compatible_rooms": [
+                0,
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                6,
+                9,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "id": 247,
+            "type": "Standard",
+            "duration": 65,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 248,
+            "type": "Standard",
+            "duration": 61,
+            "compatible_rooms": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "id": 249,
+            "type": "Standard",
+            "duration": 53,
+            "compatible_rooms": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "compatible_doctors": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        }
+    ]
+}

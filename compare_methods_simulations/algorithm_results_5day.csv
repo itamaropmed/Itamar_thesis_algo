@@ -1,0 +1,5 @@
+Method,Scheduled,Makespan,Utilization,Runtime,Valid
+Hartmann 2002 (GA),236,2984,98.23%,295.48687505722046,True
+Bouleimen 2003 (SA),229,2997,98.57%,52.24821496009827,True
+Average Human,205,2999,88.40%,0.01743173599243164,True
+Smart Human,216,2887,79.37%,0.3046131134033203,True
