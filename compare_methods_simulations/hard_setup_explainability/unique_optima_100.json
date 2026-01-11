@@ -1,0 +1,1111 @@
+{
+    "meta": {
+        "num_patients": 100,
+        "num_rooms": 6,
+        "num_doctors": 15,
+        "day_limit": 600,
+        "difficulty": "Golden Handcuffs"
+    },
+    "patients": [
+        {
+            "id": 0,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 1,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 2,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 3,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 4,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 6,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 7,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 8,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 9,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 10,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 11,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 12,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 13,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 14,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 15,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 16,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 17,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 18,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 19,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 20,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 21,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 22,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 23,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 24,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 25,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 26,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 27,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 28,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 29,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 30,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 31,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 32,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 33,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 34,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 35,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 36,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 37,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 38,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 39,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 40,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 41,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 42,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 43,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 44,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 45,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 46,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 47,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 48,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 49,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 50,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 51,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 52,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 53,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 54,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 55,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 56,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 57,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 58,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 59,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 60,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 61,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 62,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 63,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 64,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 65,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 66,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 67,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 68,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 69,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 70,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 71,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 72,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 73,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 74,
+            "type": "Golden",
+            "duration": 200,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 75,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 76,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 77,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 78,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 79,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 80,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 81,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 82,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 83,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 84,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 85,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 86,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 87,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 88,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 89,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 90,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 91,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 92,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 93,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 94,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 95,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 96,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 97,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 98,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 99,
+            "type": "Poison",
+            "duration": 201,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        }
+    ]
+}

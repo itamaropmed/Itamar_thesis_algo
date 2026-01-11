@@ -1,0 +1,1263 @@
+{
+    "meta": {
+        "num_patients": 100,
+        "num_rooms": 5,
+        "num_doctors": 15,
+        "day_limit": 600,
+        "difficulty": "Impossible - Capacity Overload (140%)"
+    },
+    "patients": [
+        {
+            "id": 0,
+            "type": "Standard",
+            "duration": 193,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2,
+                11,
+                10
+            ]
+        },
+        {
+            "id": 1,
+            "type": "Standard",
+            "duration": 240,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                8
+            ]
+        },
+        {
+            "id": 2,
+            "type": "Standard",
+            "duration": 226,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                13
+            ]
+        },
+        {
+            "id": 3,
+            "type": "Standard",
+            "duration": 204,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                13,
+                9,
+                1
+            ]
+        },
+        {
+            "id": 4,
+            "type": "Standard",
+            "duration": 237,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Standard",
+            "duration": 191,
+            "compatible_rooms": [
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                13,
+                2,
+                11
+            ]
+        },
+        {
+            "id": 6,
+            "type": "Standard",
+            "duration": 181,
+            "compatible_rooms": [
+                3,
+                2
+            ],
+            "compatible_doctors": [
+                12,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 7,
+            "type": "Standard",
+            "duration": 218,
+            "compatible_rooms": [
+                1,
+                4
+            ],
+            "compatible_doctors": [
+                6,
+                8,
+                1
+            ]
+        },
+        {
+            "id": 8,
+            "type": "Standard",
+            "duration": 183,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                9,
+                1
+            ]
+        },
+        {
+            "id": 9,
+            "type": "Standard",
+            "duration": 188,
+            "compatible_rooms": [
+                2,
+                0
+            ],
+            "compatible_doctors": [
+                9
+            ]
+        },
+        {
+            "id": 10,
+            "type": "Standard",
+            "duration": 230,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                10,
+                3
+            ]
+        },
+        {
+            "id": 11,
+            "type": "Standard",
+            "duration": 196,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                3,
+                1
+            ]
+        },
+        {
+            "id": 12,
+            "type": "Standard",
+            "duration": 236,
+            "compatible_rooms": [
+                2,
+                4
+            ],
+            "compatible_doctors": [
+                8,
+                3,
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "type": "Standard",
+            "duration": 187,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                11,
+                8,
+                6
+            ]
+        },
+        {
+            "id": 14,
+            "type": "Standard",
+            "duration": 187,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                8,
+                13
+            ]
+        },
+        {
+            "id": 15,
+            "type": "Standard",
+            "duration": 198,
+            "compatible_rooms": [
+                2,
+                4
+            ],
+            "compatible_doctors": [
+                10
+            ]
+        },
+        {
+            "id": 16,
+            "type": "Standard",
+            "duration": 218,
+            "compatible_rooms": [
+                1,
+                0
+            ],
+            "compatible_doctors": [
+                4
+            ]
+        },
+        {
+            "id": 17,
+            "type": "Standard",
+            "duration": 228,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                14,
+                7
+            ]
+        },
+        {
+            "id": 18,
+            "type": "Standard",
+            "duration": 193,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                8,
+                12,
+                1
+            ]
+        },
+        {
+            "id": 19,
+            "type": "Standard",
+            "duration": 235,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                5,
+                14
+            ]
+        },
+        {
+            "id": 20,
+            "type": "Standard",
+            "duration": 209,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                9,
+                3
+            ]
+        },
+        {
+            "id": 21,
+            "type": "Standard",
+            "duration": 183,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                11
+            ]
+        },
+        {
+            "id": 22,
+            "type": "Standard",
+            "duration": 197,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                6,
+                14,
+                11
+            ]
+        },
+        {
+            "id": 23,
+            "type": "Standard",
+            "duration": 210,
+            "compatible_rooms": [
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                14,
+                2,
+                6
+            ]
+        },
+        {
+            "id": 24,
+            "type": "Standard",
+            "duration": 215,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                4,
+                13,
+                11
+            ]
+        },
+        {
+            "id": 25,
+            "type": "Standard",
+            "duration": 199,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                0,
+                5
+            ]
+        },
+        {
+            "id": 26,
+            "type": "Standard",
+            "duration": 209,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                5
+            ]
+        },
+        {
+            "id": 27,
+            "type": "Standard",
+            "duration": 219,
+            "compatible_rooms": [
+                0,
+                4
+            ],
+            "compatible_doctors": [
+                0,
+                4
+            ]
+        },
+        {
+            "id": 28,
+            "type": "Standard",
+            "duration": 233,
+            "compatible_rooms": [
+                2,
+                0
+            ],
+            "compatible_doctors": [
+                12,
+                9
+            ]
+        },
+        {
+            "id": 29,
+            "type": "Standard",
+            "duration": 183,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                11,
+                9,
+                3
+            ]
+        },
+        {
+            "id": 30,
+            "type": "Standard",
+            "duration": 182,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                12,
+                9,
+                11
+            ]
+        },
+        {
+            "id": 31,
+            "type": "Standard",
+            "duration": 193,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                5,
+                11,
+                13
+            ]
+        },
+        {
+            "id": 32,
+            "type": "Standard",
+            "duration": 184,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                9,
+                7
+            ]
+        },
+        {
+            "id": 33,
+            "type": "Standard",
+            "duration": 235,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                9,
+                0,
+                13
+            ]
+        },
+        {
+            "id": 34,
+            "type": "Standard",
+            "duration": 186,
+            "compatible_rooms": [
+                3,
+                2
+            ],
+            "compatible_doctors": [
+                12
+            ]
+        },
+        {
+            "id": 35,
+            "type": "Standard",
+            "duration": 192,
+            "compatible_rooms": [
+                4,
+                2
+            ],
+            "compatible_doctors": [
+                4,
+                10,
+                8
+            ]
+        },
+        {
+            "id": 36,
+            "type": "Standard",
+            "duration": 235,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                6,
+                12,
+                8
+            ]
+        },
+        {
+            "id": 37,
+            "type": "Standard",
+            "duration": 191,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                8
+            ]
+        },
+        {
+            "id": 38,
+            "type": "Standard",
+            "duration": 222,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                13,
+                1,
+                9
+            ]
+        },
+        {
+            "id": 39,
+            "type": "Standard",
+            "duration": 194,
+            "compatible_rooms": [
+                3,
+                1
+            ],
+            "compatible_doctors": [
+                13
+            ]
+        },
+        {
+            "id": 40,
+            "type": "Standard",
+            "duration": 206,
+            "compatible_rooms": [
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                7
+            ]
+        },
+        {
+            "id": 41,
+            "type": "Standard",
+            "duration": 233,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                8,
+                5,
+                1
+            ]
+        },
+        {
+            "id": 42,
+            "type": "Standard",
+            "duration": 216,
+            "compatible_rooms": [
+                3,
+                4
+            ],
+            "compatible_doctors": [
+                6
+            ]
+        },
+        {
+            "id": 43,
+            "type": "Standard",
+            "duration": 211,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                12,
+                13,
+                2
+            ]
+        },
+        {
+            "id": 44,
+            "type": "Standard",
+            "duration": 225,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                7,
+                14
+            ]
+        },
+        {
+            "id": 45,
+            "type": "Standard",
+            "duration": 197,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                3,
+                2
+            ]
+        },
+        {
+            "id": 46,
+            "type": "Standard",
+            "duration": 181,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                3,
+                11
+            ]
+        },
+        {
+            "id": 47,
+            "type": "Standard",
+            "duration": 204,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                9
+            ]
+        },
+        {
+            "id": 48,
+            "type": "Standard",
+            "duration": 218,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 49,
+            "type": "Standard",
+            "duration": 192,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                13,
+                6,
+                10
+            ]
+        },
+        {
+            "id": 50,
+            "type": "Standard",
+            "duration": 215,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                7
+            ]
+        },
+        {
+            "id": 51,
+            "type": "Standard",
+            "duration": 188,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                6,
+                8,
+                3
+            ]
+        },
+        {
+            "id": 52,
+            "type": "Standard",
+            "duration": 220,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                1,
+                3,
+                6
+            ]
+        },
+        {
+            "id": 53,
+            "type": "Standard",
+            "duration": 229,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                11,
+                12
+            ]
+        },
+        {
+            "id": 54,
+            "type": "Standard",
+            "duration": 207,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                9
+            ]
+        },
+        {
+            "id": 55,
+            "type": "Standard",
+            "duration": 211,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                9,
+                6,
+                3
+            ]
+        },
+        {
+            "id": 56,
+            "type": "Standard",
+            "duration": 219,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 57,
+            "type": "Standard",
+            "duration": 187,
+            "compatible_rooms": [
+                0,
+                1
+            ],
+            "compatible_doctors": [
+                6
+            ]
+        },
+        {
+            "id": 58,
+            "type": "Standard",
+            "duration": 197,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                10,
+                7
+            ]
+        },
+        {
+            "id": 59,
+            "type": "Standard",
+            "duration": 215,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                14,
+                1
+            ]
+        },
+        {
+            "id": 60,
+            "type": "Standard",
+            "duration": 206,
+            "compatible_rooms": [
+                3,
+                0
+            ],
+            "compatible_doctors": [
+                14,
+                3
+            ]
+        },
+        {
+            "id": 61,
+            "type": "Standard",
+            "duration": 191,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                0,
+                6
+            ]
+        },
+        {
+            "id": 62,
+            "type": "Standard",
+            "duration": 240,
+            "compatible_rooms": [
+                1,
+                2
+            ],
+            "compatible_doctors": [
+                9,
+                7,
+                13
+            ]
+        },
+        {
+            "id": 63,
+            "type": "Standard",
+            "duration": 187,
+            "compatible_rooms": [
+                4,
+                2
+            ],
+            "compatible_doctors": [
+                7,
+                0,
+                12
+            ]
+        },
+        {
+            "id": 64,
+            "type": "Standard",
+            "duration": 236,
+            "compatible_rooms": [
+                0,
+                2
+            ],
+            "compatible_doctors": [
+                13
+            ]
+        },
+        {
+            "id": 65,
+            "type": "Standard",
+            "duration": 240,
+            "compatible_rooms": [
+                4,
+                1
+            ],
+            "compatible_doctors": [
+                5,
+                8
+            ]
+        },
+        {
+            "id": 66,
+            "type": "Standard",
+            "duration": 230,
+            "compatible_rooms": [
+                4,
+                0
+            ],
+            "compatible_doctors": [
+                8,
+                5
+            ]
+        },
+        {
+            "id": 67,
+            "type": "Standard",
+            "duration": 240,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                9,
+                3,
+                1
+            ]
+        },
+        {
+            "id": 68,
+            "type": "Standard",
+            "duration": 197,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                1
+            ]
+        },
+        {
+            "id": 69,
+            "type": "Standard",
+            "duration": 205,
+            "compatible_rooms": [
+                4,
+                0
+            ],
+            "compatible_doctors": [
+                4,
+                5
+            ]
+        },
+        {
+            "id": 70,
+            "type": "Standard",
+            "duration": 204,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                8
+            ]
+        },
+        {
+            "id": 71,
+            "type": "Standard",
+            "duration": 180,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                11,
+                4,
+                12
+            ]
+        },
+        {
+            "id": 72,
+            "type": "Standard",
+            "duration": 233,
+            "compatible_rooms": [
+                4,
+                0
+            ],
+            "compatible_doctors": [
+                4,
+                13,
+                12
+            ]
+        },
+        {
+            "id": 73,
+            "type": "Standard",
+            "duration": 181,
+            "compatible_rooms": [
+                1,
+                4
+            ],
+            "compatible_doctors": [
+                10,
+                14,
+                7
+            ]
+        },
+        {
+            "id": 74,
+            "type": "Standard",
+            "duration": 193,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                13
+            ]
+        },
+        {
+            "id": 75,
+            "type": "Standard",
+            "duration": 233,
+            "compatible_rooms": [
+                3,
+                1
+            ],
+            "compatible_doctors": [
+                7,
+                8,
+                0
+            ]
+        },
+        {
+            "id": 76,
+            "type": "Standard",
+            "duration": 221,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                14
+            ]
+        },
+        {
+            "id": 77,
+            "type": "Standard",
+            "duration": 214,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                8,
+                0,
+                5
+            ]
+        },
+        {
+            "id": 78,
+            "type": "Standard",
+            "duration": 186,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                10
+            ]
+        },
+        {
+            "id": 79,
+            "type": "Standard",
+            "duration": 216,
+            "compatible_rooms": [
+                3,
+                2
+            ],
+            "compatible_doctors": [
+                6,
+                14,
+                10
+            ]
+        },
+        {
+            "id": 80,
+            "type": "Standard",
+            "duration": 211,
+            "compatible_rooms": [
+                3
+            ],
+            "compatible_doctors": [
+                0
+            ]
+        },
+        {
+            "id": 81,
+            "type": "Standard",
+            "duration": 221,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                4,
+                11,
+                5
+            ]
+        },
+        {
+            "id": 82,
+            "type": "Standard",
+            "duration": 183,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                0,
+                13
+            ]
+        },
+        {
+            "id": 83,
+            "type": "Standard",
+            "duration": 181,
+            "compatible_rooms": [
+                0
+            ],
+            "compatible_doctors": [
+                6
+            ]
+        },
+        {
+            "id": 84,
+            "type": "Standard",
+            "duration": 207,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                6
+            ]
+        },
+        {
+            "id": 85,
+            "type": "Standard",
+            "duration": 208,
+            "compatible_rooms": [
+                1,
+                0
+            ],
+            "compatible_doctors": [
+                11,
+                5,
+                13
+            ]
+        },
+        {
+            "id": 86,
+            "type": "Standard",
+            "duration": 229,
+            "compatible_rooms": [
+                2,
+                4
+            ],
+            "compatible_doctors": [
+                2,
+                9
+            ]
+        },
+        {
+            "id": 87,
+            "type": "Standard",
+            "duration": 229,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                5,
+                1,
+                14
+            ]
+        },
+        {
+            "id": 88,
+            "type": "Standard",
+            "duration": 186,
+            "compatible_rooms": [
+                1,
+                0
+            ],
+            "compatible_doctors": [
+                10
+            ]
+        },
+        {
+            "id": 89,
+            "type": "Standard",
+            "duration": 201,
+            "compatible_rooms": [
+                2,
+                3
+            ],
+            "compatible_doctors": [
+                2,
+                14,
+                9
+            ]
+        },
+        {
+            "id": 90,
+            "type": "Standard",
+            "duration": 193,
+            "compatible_rooms": [
+                3,
+                2
+            ],
+            "compatible_doctors": [
+                10,
+                9
+            ]
+        },
+        {
+            "id": 91,
+            "type": "Standard",
+            "duration": 213,
+            "compatible_rooms": [
+                4
+            ],
+            "compatible_doctors": [
+                14
+            ]
+        },
+        {
+            "id": 92,
+            "type": "Standard",
+            "duration": 184,
+            "compatible_rooms": [
+                0,
+                3
+            ],
+            "compatible_doctors": [
+                3
+            ]
+        },
+        {
+            "id": 93,
+            "type": "Standard",
+            "duration": 235,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                14,
+                6
+            ]
+        },
+        {
+            "id": 94,
+            "type": "Standard",
+            "duration": 210,
+            "compatible_rooms": [
+                2
+            ],
+            "compatible_doctors": [
+                2
+            ]
+        },
+        {
+            "id": 95,
+            "type": "Standard",
+            "duration": 202,
+            "compatible_rooms": [
+                1
+            ],
+            "compatible_doctors": [
+                7,
+                9,
+                0
+            ]
+        },
+        {
+            "id": 96,
+            "type": "Standard",
+            "duration": 184,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                9
+            ]
+        },
+        {
+            "id": 97,
+            "type": "Standard",
+            "duration": 229,
+            "compatible_rooms": [
+                0,
+                4
+            ],
+            "compatible_doctors": [
+                7,
+                5,
+                2
+            ]
+        },
+        {
+            "id": 98,
+            "type": "Standard",
+            "duration": 199,
+            "compatible_rooms": [
+                1,
+                3
+            ],
+            "compatible_doctors": [
+                1,
+                10
+            ]
+        },
+        {
+            "id": 99,
+            "type": "Standard",
+            "duration": 234,
+            "compatible_rooms": [
+                2,
+                1
+            ],
+            "compatible_doctors": [
+                9
+            ]
+        }
+    ]
+}
